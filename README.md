@@ -1,3 +1,5 @@
+# installation
+composer require twilio/sdk
 # create new module and migrate db
 php artisan make: migration create_user_otp_table <br />
 php artisan migrate <br />
