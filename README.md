@@ -11,6 +11,6 @@ php artisan optimize <br />
 php artisan config:clear <br />
 php artisan serve 
 
-# route : 
+# routes : 
 http://127.0.0.1:8000/otp/login <br />
 http://127.0.0.1:8000/otp/verificationuser_id?1
